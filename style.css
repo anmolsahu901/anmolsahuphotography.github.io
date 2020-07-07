@@ -1,0 +1,16 @@
+body{
+  
+  background-image: linear-gradient(rgb(248, 237, 201),rgb(245, 216, 154));
+  background-repeat: no-repeat;
+}
+#navi
+{
+  background-color: rgb(3, 52, 109);
+}
+.carousel-inner img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+ 
